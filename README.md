@@ -1,6 +1,6 @@
 # HMM-TNOS-Estimation
 
-Thesis: The Estimation of Number of States in Hidden Markov Model
+### Thesis: The Estimation of Number of States in Hidden Markov Model
 
 There are five training weights files using in the five fold of the CNN model.
 
