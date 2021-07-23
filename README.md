@@ -2,6 +2,8 @@
 
 ### Thesis: The Estimation of Number of States in Hidden Markov Model
 
+### Advisor: Dr. Chu-Lan Kao
+
 ### Abstract
 A hidden Markov model (HMM) is a statistical model widely used in the area of biology, finance, and speech recognition. It is necessary to determine the number of states before applying this model to the data. Gassiat and Rousseau (2014) have proposed a Bayesian sampling method from which the estimator is consistent when the sample size tends to infinity. However, the Markov chain Monte Carlo method used as a Bayesian sample method was time consuming and did not yield ideal results. Therefore, a practical improved method was proposed for estimating the number of states in hidden Markov models based on the concept in Gassiat and Rousseau (2014). The improved method could successfully estimate the number of states on both simulated data and single molecule Föster resonance energy transfer data. Finally, the improved method combined with a 2D-CNN model extends its application on HMMs with different parameter settings and gives suitable suggestions.
 
